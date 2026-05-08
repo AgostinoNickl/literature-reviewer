@@ -1,4 +1,4 @@
-# Spectral Literature Reviews 🌈
+# Spectral Literature Reviewer 🌈
 
 This repository contains the complete Mathematica code for **Spectral Literature Reviews**.
 
