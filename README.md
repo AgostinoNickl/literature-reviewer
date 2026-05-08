@@ -4,7 +4,7 @@ This repository contains the complete Mathematica code for **Spectral Literature
 
 You don't need to see the whole world to see the main colors of the rainbow, and you may not need to read all papers in the world to get the distinctive arguments that repeat across many. This notebook uses AI to mine a collection in your Zotero, and unsupervised learning in the form of Self-Organizing Maps (SOMs) to sort hundreds of thousands of sentences into similar semantic bands, so you can read your literature like a rainbow – at a resolution you set.
 
-Spectral Literature Reviews builds on the codebase of CLIPedia (https://github.com/AgostinoNickl/clipedia), published in 2025.  
+Spectral Literature Reviewer builds on the codebase of CLIPedia (https://github.com/AgostinoNickl/clipedia), published in 2025.  
 
 ## Status
 
